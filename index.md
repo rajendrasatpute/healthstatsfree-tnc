@@ -25,7 +25,7 @@ By accessing and using this app, you acknowledge that you have read, understood,
 - This app stores data locally in secure storage, and does not share data on any server. However, if the device is infected by some malware, the security of the data is at risk. 
 - Developer of this app cannot be held accountable in any way for any reason.
 
-# Warranty
+### Warranty
 
 This app is provided “as is”, without any kind of warranty. There is no guaranty that this app is free from mistakes, errors or any other issues. Users of the app understand that they are using the app at their own risk.
 
