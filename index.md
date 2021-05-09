@@ -22,7 +22,8 @@ By accessing and using this app, you acknowledge that you have read, understood,
 - This app is intended to be used for human health parameter records.
 - Acceptable ranges shown just for indicative purpose are generalised for Adults, and may vary person to person. Please consult your doctor to check your normal range.
 - This app does not show any ads. However, this app cannot control other advertising apps/services on the device from showing the ads.
-- This app stores data locally, and does not share data on any server. However, if the device is infected by some malware, the security of the data is at risk. 
+- This app stores data locally, and does not share data on any server. However, if the device is infected by some malware, the security of the data is at risk.
+- The data of this app might be cleared if the app is uninstalled, or the data is cleared from settings.
 - Developer of this app cannot be held accountable in any way for any reason.
 
 ### Warranty
