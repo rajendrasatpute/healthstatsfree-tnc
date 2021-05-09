@@ -1,13 +1,13 @@
 ## Welcome to Health Stats App!
 
-These terms and conditions outline the rules and regulations for the use of Health Stats App.
+These terms and conditions outline the rules and regulations for the use of "Health Stats App - Free".
 
 This document was last updated on May 9, 2021
 
 The following terminology applies to these Terms and Conditions: 
-“User”, “You” and “Your” refers to you, the person using Health Stats App. 
-“Developer” refers to the developer of the Health Stats Ap. 
-“This app” refers to the Health Stats App and related products or services. 
+“User”, “You” and “Your” refers to you, the person using "Health Stats App - Free". 
+“Developer” refers to the developer of the "Health Stats App - Free". 
+“This app” refers to the "Health Stats App - Free" and related products or services. 
 Any use of the above terminology or other words in the singular, plural, capitalisation and/or he/she or they, are taken as interchangeable and therefore as referring to same.
 
 ### Acceptance of these terms
@@ -20,7 +20,7 @@ By accessing and using this app, you acknowledge that you have read, understood,
 - This app is free, and does not ask for any payment.
 - This app is just to record the health stats. This is not a guide for you to decide when to see a doctor.
 - This app is intended to be used for human health parameter records.
-- Acceptable ranges shown just for indicative purpose are generalised for Adults, and may vary person to person.. Please consult your doctor to check your normal range.
+- Acceptable ranges shown just for indicative purpose are generalised for Adults, and may vary person to person. Please consult your doctor to check your normal range.
 - This app does not show any ads. However, this app cannot control other advertising apps/services on the device from showing the ads.
 - This app stores data locally in secure storage, and does not share data on any server. However, if the device is infected by some malware, the security of the data is at risk. 
 - Developer of this app cannot be held accountable in any way for any reason.
@@ -35,7 +35,7 @@ User of the app is granted a non-exclusive, non-transferable, non-sharable, revo
 
 ### Intellectual property rights
 
-Developer of this app is the owner of all the intellectual property, graphics, written content, software code (excluding platform or libraries used) and other components of this app. Your use of this grants you no right or license to reproduce or otherwise use any of the intellectual property, graphics, written content, software code.
+Developer of this app is the owner of all the intellectual property, graphics, written content, software code (excluding platform, libraries or any other third party tools used) and other components of this app. Your use of this grants you no right or license to reproduce or otherwise use any of the intellectual property, graphics, written content, software code.
 
 ### Changes and amendments
 
