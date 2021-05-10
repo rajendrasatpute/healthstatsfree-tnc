@@ -2,7 +2,7 @@
 
 These terms and conditions outline the rules and regulations for the use of "Health Stats App - Free".
 
-This document was last updated on May 9, 2021
+This document was last updated on May 10, 2021
 
 The following terminology applies to these Terms and Conditions: 
 “User”, “You” and “Your” refers to you, the person using "Health Stats App - Free". 
@@ -24,11 +24,11 @@ By accessing and using this app, you acknowledge that you have read, understood,
 - This app does not show any ads. However, this app cannot control other advertising apps/services on the device from showing the ads.
 - This app stores data locally, and does not share data on any server. However, if the device is infected by some malware, the security of the data is at risk.
 - The data of this app might be cleared if the app is uninstalled, or the data is cleared from settings.
-- Developer of this app cannot be held accountable in any way for any reason.
+- The user should be of age more than 13, and should at least know what the health parameter is for.
 
 ### Warranty
 
-This app is provided “as is”, without any kind of warranty. There is no guaranty that this app is free from mistakes, errors or any other issues. Users of the app understand that they are using the app at their own risk.
+This app is provided “as is”, without any kind of warranty. There is no guaranty that this app is free from mistakes, errors or any other issues. Users of the app understand that they are using the app at their own risk. Developer of this app cannot be held accountable in any way for any reason.
 
 ### License
 
