@@ -1,13 +1,13 @@
-## Welcome to Health Stats App!
+## Welcome to My Health Stats App!
 
-These terms and conditions outline the rules and regulations for the use of "Health Stats App - Free".
+These terms and conditions outline the rules and regulations for the use of "My Health Stats - Free - No Ads".
 
-This document was last updated on May 10, 2021
+This document was last updated on May 19, 2021
 
 The following terminology applies to these Terms and Conditions: 
-“User”, “You” and “Your” refers to you, the person using "Health Stats App - Free". 
-“Developer” refers to the developer of the "Health Stats App - Free". 
-“This app” refers to the "Health Stats App - Free" and related products or services. 
+“User”, “You” and “Your” refers to you, the person using "My Health Stats - Free - No Ads". 
+“Developer” refers to the developer of the "My Health Stats - Free - No Ads". 
+“This app” refers to the "My Health Stats - Free - No Ads" and related products or services. 
 Any use of the above terminology or other words in the singular, plural, capitalisation and/or he/she or they, are taken as interchangeable and therefore as referring to same.
 
 ### Acceptance of these terms
