@@ -2,12 +2,12 @@
 
 These terms and conditions outline the rules and regulations for the use of "My Health Stats - Free - No Ads".
 
-This document was last updated on May 19, 2021
+This document was last updated on July 16, 2022
 
 The following terminology applies to these Terms and Conditions: 
 “User”, “You” and “Your” refers to you, the person using "My Health Stats - Free - No Ads". 
 “Developer” refers to the developer of the "My Health Stats - Free - No Ads". 
-“This app” refers to the "My Health Stats - Free - No Ads" and related products or services. 
+“This app”, the app” refers to the "My Health Stats - Free - No Ads" and related products or services. 
 Any use of the above terminology or other words in the singular, plural, capitalisation and/or he/she or they, are taken as interchangeable and therefore as referring to same.
 
 ### Acceptance of these terms
@@ -48,3 +48,6 @@ Reverse engineering, decompiling, disassembly of any aspect of the app, or any a
 In addition to other terms as set forth in terms and conditions, you are prohibited from using this app or content: (a) for any unlawful purpose; (b) to solicit others to perform or participate in any unlawful acts; (c) to violate any international, federal, provincial or state regulations, rules, laws, or local ordinances; (d) to infringe upon or violate developer’s intellectual property rights or the intellectual property rights of others; (e) to harass, abuse, insult, harm, defame, slander, disparage, intimidate, or discriminate based on gender, sexual orientation, religion, ethnicity, race, age, national origin, or disability; (f) to submit false or misleading information; (g) to spam, phish, pharm, pretext, spider, crawl, or scrape; (h) for any obscene or immoral purpose; or (i) to interfere with or circumvent the security features of this app, third party products and services, or the Internet. 
 Developer reserve the right to terminate your use of this app for violating any of the prohibited uses.
 
+### Update on July 16, 2022
+
+Privacy policy - https://rajendrasatpute.github.io/healthstatsfree-tnc/privacypolicy
