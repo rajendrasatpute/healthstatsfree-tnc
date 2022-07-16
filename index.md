@@ -50,4 +50,4 @@ Developer reserve the right to terminate your use of this app for violating any 
 
 ### Update on July 16, 2022
 
-Privacy policy - https://rajendrasatpute.github.io/healthstatsfree-tnc/privacypolicy
+Privacy policy - <https://rajendrasatpute.github.io/healthstatsfree-tnc/privacypolicy>
